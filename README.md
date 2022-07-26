@@ -22,3 +22,5 @@ Além de novos recursos da linguagem:
 
 Também foram utilizadas técnicas como o ***polyfil*** para navegadores que ainda não sejam compativeis com a ***API fetch*** e o ***Babel*** para transcompilar código 
 escrito em ES6 para ES5.
+
+Ao final do treinamento, foi integrado à aplicação o banco de dados local ***indexeddb***.
